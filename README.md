@@ -215,16 +215,16 @@ To better understand acoustic differences between original and transformed speec
 ### Morgan Freeman Example
 
 #### Neutral Reference
-<p align="center">
-  <img src="results/mel_spectrograms/Morgan%20Freeman/morgan_Neutral_Reference.png" width="1000">
-</p>
+
+![Morgan VC Only](results/mel_spectrograms/Morgan_Freeman/morgan_Neutral_Reference.png)
+
 #### Voice Conversion (VC)
 
-![Morgan VC Only](results/mel_spectrograms/Morgan%20Freeman/morgan_VC_Only.png)
+![Morgan VC Only](results/mel_spectrograms/Morgan_Freeman/morgan_VC_Only.png)
 
 #### Emotional Voice Conversion (EVC - Sad)
 
-![Morgan EVC Sad](results/mel_spectrograms/Morgan%20Freeman/morgan_EVC_Sad.png)
+![Morgan EVC Sad](results/mel_spectrograms/Morgan_Freeman/morgan_EVC_Sad.png)
 
 ---
 
