@@ -1,5 +1,7 @@
-from software_implementation.aasist.data_utils import Dataset_ASVspoof2019_train
+import sys
+sys.path.append("software_implementation/aasist")
 
+from data_utils import Dataset_ASVspoof2019_train
 
 def test_dataset_length():
 
