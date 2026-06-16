@@ -186,6 +186,7 @@ The following metrics are used to evaluate detector performance:
 - Word Error Rate (WER)
 - Character Error Rate (CER)
 - Mean Opinion Score (MOS)
+- Speaker Similarity (SECS)
 
 ---
 
