@@ -215,9 +215,9 @@ To better understand acoustic differences between original and transformed speec
 ### Morgan Freeman Example
 
 #### Neutral Reference
-
-![Morgan Neutral Reference](results/mel_spectrograms/Morgan%20Freeman/morgan_Neutral_Reference.png)
-
+<p align="center">
+  <img src="results/mel_spectrograms/Morgan%20Freeman/morgan_Neutral_Reference.png" width="1000">
+</p>
 #### Voice Conversion (VC)
 
 ![Morgan VC Only](results/mel_spectrograms/Morgan%20Freeman/morgan_VC_Only.png)
