@@ -230,9 +230,13 @@ To better understand acoustic differences between original and transformed speec
 
 ### David Attenborough Example
 
-#### Angry Reference
+#### Neutral Reference
 
-![David Angry Reference](results/mel_spectrograms/David_Attenborough/David_Angry_Reference.png)
+![David Angry Reference](results/mel_spectrograms/David_Attenborough/David_Neutral_Reference.png)
+
+#### Voice Conversion (VC)
+
+![David VC Only](results/mel_spectrograms/David_Attenborough/david_VC_Only.png)
 
 #### Emotional Voice Conversion (EVC - Angry)
 
