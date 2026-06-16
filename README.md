@@ -134,6 +134,36 @@ Audio-Deepfakes-Detection
 
 ---
 
+## Project Demonstration
+
+
+
+A video demonstration showcasing the complete workflow of the project is available below.
+
+
+
+The demo includes:
+
+
+
+* Synthetic speech generation using Chatterbox-Turbo
+
+* Voice Conversion (VC) using Seed-VC
+
+* Emotional Voice Conversion (EVC)
+
+* AASIST-based deepfake detection
+
+* Robustness evaluation results and analysis
+
+
+
+🔗 **Demo Video:**
+
+[Watch the Project Demo](https://colab-19f1hukc-untitled1-644621406504.us-west1.run.app/)
+
+---
+
 ## Installation
 
 Clone the repository:
