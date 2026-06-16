@@ -1,0 +1,12 @@
+torch>=1.6.0
+torchcontrib
+
+numpy
+pandas
+scipy
+scikit-learn
+
+soundfile
+matplotlib
+
+pytest
