@@ -1,5 +1,7 @@
-import numpy as np
+import sys
+sys.path.append("software_implementation/aasist")
 
+from data_utils import pad, pad_random
 from software_implementation.aasist.data_utils import (
     pad,
     pad_random
