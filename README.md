@@ -18,7 +18,7 @@ The objective is to determine whether a detector trained on standard synthetic s
 
 
 
-A video demonstration showcasing the complete workflow of the project is available below.
+A demonstration showcasing the complete workflow of the project is available below.
 
 
 
@@ -32,13 +32,8 @@ The demo includes:
 
 * Emotional Voice Conversion (EVC)
 
-* AASIST-based deepfake detection
 
-* Robustness evaluation results and analysis
-
-
-
-🔗 **Demo Video:**
+🔗 **Demo LINK:**
 
 [Watch the Project Demo](https://colab-19f1hukc-untitled1-644621406504.us-west1.run.app/)
 
