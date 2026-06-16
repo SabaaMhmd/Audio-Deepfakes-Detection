@@ -236,7 +236,7 @@ To better understand acoustic differences between original and transformed speec
 
 #### Voice Conversion (VC)
 
-![David VC Only](results/mel_spectrograms/David_Attenborough/david_VC_Only.png)
+![David VC Only](results/mel_spectrograms/David_Attenborough/David_VC_Only.png)
 
 #### Emotional Voice Conversion (EVC - Angry)
 
