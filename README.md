@@ -232,11 +232,11 @@ To better understand acoustic differences between original and transformed speec
 
 #### Angry Reference
 
-![David Angry Reference](results/mel_spectrograms/David%20Attenborough/David_Angry_Reference.png)
+![David Angry Reference](results/mel_spectrograms/David_Attenborough/David_Angry_Reference.png)
 
 #### Emotional Voice Conversion (EVC - Angry)
 
-![David EVC Angry](results/mel_spectrograms/David%20Attenborough/David_EVC_Angry.png)
+![David EVC Angry](results/mel_spectrograms/David_Attenborough/David_EVC_Angry.png)
 
 ---
 
