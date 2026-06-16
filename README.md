@@ -1,2 +1,3 @@
-# Audio-Deepfakes-Detection
-Graduation project for detecting AI-generated speech and evaluating robustness against voice conversion and emotional voice conversion attacks.
+<p align="center">
+  <img src="project_pipeline/project_pipeline.png" width="1000">
+</p>
