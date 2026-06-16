@@ -14,6 +14,36 @@ The objective is to determine whether a detector trained on standard synthetic s
 
 ---
 
+## Project Demonstration
+
+
+
+A video demonstration showcasing the complete workflow of the project is available below.
+
+
+
+The demo includes:
+
+
+
+* Synthetic speech generation using Chatterbox-Turbo
+
+* Voice Conversion (VC) using Seed-VC
+
+* Emotional Voice Conversion (EVC)
+
+* AASIST-based deepfake detection
+
+* Robustness evaluation results and analysis
+
+
+
+🔗 **Demo Video:**
+
+[Watch the Project Demo](https://colab-19f1hukc-untitled1-644621406504.us-west1.run.app/)
+
+---
+
 ## Problem Statement
 
 Most existing audio deepfake detectors are trained and evaluated using single-stage synthetic speech generated directly by Text-to-Speech systems.
@@ -131,38 +161,6 @@ Audio-Deepfakes-Detection
 ├── requirements.txt
 └── README.md
 ```
-
----
-
-## Project Demonstration
-
-
-
-A video demonstration showcasing the complete workflow of the project is available below.
-
-
-
-The demo includes:
-
-
-
-* Synthetic speech generation using Chatterbox-Turbo
-
-* Voice Conversion (VC) using Seed-VC
-
-* Emotional Voice Conversion (EVC)
-
-* AASIST-based deepfake detection
-
-* Robustness evaluation results and analysis
-
-
-
-🔗 **Demo Video:**
-
-[Watch the Project Demo](https://colab-19f1hukc-untitled1-644621406504.us-west1.run.app/)
-
----
 
 ## Installation
 
