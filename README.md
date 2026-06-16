@@ -116,6 +116,23 @@ Generated using an emotion-controlled voice conversion pipeline.
 
 ---
 
+## Dataset
+
+The experiments were conducted using the LibriTTS dataset.
+
+The dataset provides high-quality speech recordings from multiple speakers and was used to:
+
+- Train the AASIST deepfake detector.
+- Generate synthetic speech using Chatterbox-Turbo.
+- Create Voice Conversion (VC) samples using Seed-VC.
+- Create Emotional Voice Conversion (EVC) samples for robustness evaluation.
+
+Additional dataset preparation details can be found in:
+
+`dataset/dataset_instructions.md`
+
+---
+
 ## Project Structure
 
 ```text
@@ -170,6 +187,55 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+---
+
+## How to Run
+
+### Train and Evaluate AASIST
+
+```bash
+python software_implementation/aasist/main.py
+```
+
+or open:
+
+```text
+software_implementation/aasist/AASIST_detector.ipynb
+```
+
+### Generate Voice Conversion Samples
+
+Open:
+
+```text
+software_implementation/generation/seed-vc-generation.ipynb
+```
+
+### Generate Emotional Voice Conversion Samples
+
+Open:
+
+```text
+software_implementation/generation/EVC-generation.ipynb
+```
+
+### Compute Evaluation Metrics
+
+Open:
+
+```text
+software_implementation/evaluation/WER_CER.ipynb
+software_implementation/evaluation/MOS.ipynb
+```
+
+### Generate Mel-Spectrogram Visualizations
+
+Open:
+
+```text
+software_implementation/evaluation/Mel_spectrogram_Plots.ipynb
 ```
 
 ---
