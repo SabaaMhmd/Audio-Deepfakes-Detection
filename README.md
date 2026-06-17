@@ -164,6 +164,7 @@ Audio-Deepfakes-Detection
 │   └── evaluation
 │       ├── WER_CER.ipynb
 │       ├── MOS.ipynb
+|       ├── Speaker_Similarity.ipynb
 │       └── Mel_spectrogram_Plots.ipynb
 │
 ├── unit_test_implementation
